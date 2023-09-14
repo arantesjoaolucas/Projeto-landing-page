@@ -1,0 +1,24 @@
+*{
+    background-color: antiquewhite;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+#Título-principal{
+    color: black;
+    background-color: beige;
+
+}
+
+#Segundo-título{
+    color: brown;
+    background-color: darkgreen;
+
+}
+
+p{
+    color: blue;
+    background-color: black;
+    text-align: justify;
+    margin: 25px;
+}
